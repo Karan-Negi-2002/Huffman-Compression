@@ -32,5 +32,6 @@ This project implements Huffman Coding for file compression and decompression in
 - If decompression fails, verify that the compressed file is not corrupted or modified after compression.
 
 ## Screenshots
-Include screenshots of program execution:
-![Program Screenshot](screenshots/decompression.png)
+Screenshot of program execution:
+
+![Image](https://github.com/user-attachments/assets/0d2a7044-d29e-4431-ab3f-48f6259636d6)
