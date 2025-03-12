@@ -168,7 +168,7 @@ public class HuffCompression {
         System.out.println("Choose an option:");
         System.out.println("1. Compress a file");
         System.out.println("2. Decompress a file");
-        System.out.print("Enter your choice (1/2): ");
+        System.out.print("Enter your choice: ");
         
         int choice = scanner.nextInt();
         scanner.nextLine(); // Consume newline
