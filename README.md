@@ -4,10 +4,10 @@
 This project implements Huffman Coding for file compression and decompression in Java. The program reads an input file, compresses it using Huffman encoding, and saves the compressed data. It can also decompress the file back to its original form.
 
 ## Features
-✅ - Compress a text file using Huffman encoding.
-✅ - Decompress a previously compressed file.
-✅ - Uses Java's `FileInputStream` and `ObjectOutputStream` for efficient file handling.
-✅ - Implements a priority queue for Huffman tree construction.
+✅ Compress a text file using Huffman encoding.
+✅ Decompress a previously compressed file.
+✅ Uses Java's `FileInputStream` and `ObjectOutputStream` for efficient file handling.
+✅ Implements a priority queue for Huffman tree construction.
 
 ## Usage
 ### **Compression**
